@@ -1,0 +1,42 @@
+{
+    "name": "Vscode",
+    "displayName": "Chameleon",
+    "description": "A dark theme for VScode",
+    "version": "0.0.4",
+    "publisher": "Chameleon",
+    "license": "SEE LICENSE IN LICENSE",
+    "author": {
+        "name": "Mario Matsui"
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "icon": "img/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "#"
+    },
+    "keywords": [
+		"theme",
+		"dark",
+        "chameleon",
+        "chameleon-theme",
+		"dark chameleon"
+	],
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chameleon",
+                "uiTheme": "vs",
+                "path": "./themes/Chameleon-color-theme.json"
+            }
+        ]
+    }
+}
