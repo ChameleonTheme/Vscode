@@ -14,7 +14,7 @@ A dark Syntax Theme. This is the latest version of the Chameleon theme. It's a d
 
 ---
 ## About Chameleon
-![3img](https://user-images.githubusercontent.com/63224412/87469695-0c756880-c5f2-11ea-80d6-3af6db11d568.jpg)
+![Chameleon](https://user-images.githubusercontent.com/63224412/87469695-0c756880-c5f2-11ea-80d6-3af6db11d568.jpg)
 
 1. chameleons sleep for at least 12 hours each night.
 2. Eat 12-15 minutes.
